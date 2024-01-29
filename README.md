@@ -1,4 +1,4 @@
-[![Header] (3dbac45df51c33b0bd63621081afbe29.jpg) ]
+[![Header](3dbac45df51c33b0bd63621081afbe29.jpg)]
 
 ## Languages and tools
 
